@@ -14,5 +14,6 @@
 FontSize="36"/>
         <Button Content="Выйти" Width="98" Margin="25,30,0,0" Height="31" HorizontalAlignment="Left"
 VerticalAlignment="Top" Click="ExitButton_Click"/>
-    </Grid>
+    </Grid>
+    
 </Page>

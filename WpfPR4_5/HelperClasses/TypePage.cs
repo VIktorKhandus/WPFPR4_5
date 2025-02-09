@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WpfPR4_5.HelperClasses
 {
-    internal class TypePage
+    public enum TypePage
     {
         Add,
         Update
